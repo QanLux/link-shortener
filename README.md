@@ -139,7 +139,7 @@ Mọi đóng góp đều được chào đón! Hãy:
 
 ### 🐛 Báo cáo lỗi
 
-Nếu bạn tìm thấy lỗi, hãy tạo [Issue](https://github.com/your-username/url-shortener/issues) với:
+Nếu bạn tìm thấy lỗi, hãy tạo [Issue](https://github.com/QanLux/link-shortener/issues) với:
 - Mô tả lỗi chi tiết
 - Bước thực hiện gây lỗi
 - Thông tin hệ thống (OS, PHP, MySQL version)
@@ -164,3 +164,4 @@ Cảm ơn bạn đã sử dụng **URL Shortener**!
 ---
 
 **Made with ❤️ by [Your Name](https://github.com/your-username)**
+
