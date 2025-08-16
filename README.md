@@ -150,7 +150,7 @@ Dự án này được phân phối dưới giấy phép **MIT**. Xem file [LICE
 
 ## 📞 Liên hệ & Hỗ trợ
 
-- **👨‍💻 Tác giả:** Your Name
+- **👨‍💻 Tác giả:** TranAnhQuan
 - **📧 Email:** tranhquan44@gmail.com
 - **🐙 GitHub:** [@QanLux](https://github.com/QanLux)
 - **💬 Discord:** [Join our community](https://discord.gg/your-server)
@@ -164,5 +164,6 @@ Cảm ơn bạn đã sử dụng **URL Shortener**!
 ---
 
 **Made with ❤️ by [QanLux](https://github.com/QanLux)**
+
 
 
